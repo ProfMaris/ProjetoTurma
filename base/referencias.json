@@ -1,0 +1,35 @@
+[
+    {   "id":"1",
+        "nome": "Tab navigation",
+        "projetos": "Informar os projetos",
+        "linkref": "https://reactnavigation.org/docs/tab-based-navigation/",
+        "utilizacao": "Possivelmente, o estilo mais comum de navegação em aplicativos móveis é a navegação baseada em guias. Podem ser guias na parte inferior da tela ou na parte superior abaixo do cabeçalho (ou mesmo em vez de um cabeçalho).",
+        "exemplo": "colocar um endereço de um github",
+        "categoria": "navegacao"
+     },
+      {   "id":"2",
+        "nome": "Drawer navigation",
+        "projetos": "Informar os projetos",
+        "linkref": "https://reactnavigation.org/docs/drawer-based-navigation",
+        "utilizacao":  "Utilizado para oferecer opções de navegação com abas verticais que são acionadas.",
+        "exemplo": "colocar um endereço de um github",
+        "categoria": "navegacao"
+     },
+     {   "id":"3",
+        "nome": "Tab navigation",
+        "projetos": "Informar os projetos",
+        "linkref": "https://reactnavigation.org/docs/tab-based-navigation/",
+        "utilizacao": "Possivelmente, o estilo mais comum de navegação em aplicativos móveis é a navegação baseada em guias. Podem ser guias na parte inferior da tela ou na parte superior abaixo do cabeçalho (ou mesmo em vez de um cabeçalho).",
+        "exemplo": "colocar um endereço de um github",
+        "categoria": "navegacao"
+     },
+      {   "id":"4",
+        "nome": "Drawer navigation",
+        "projetos": "Informar os projetos",
+        "linkref": "https://reactnavigation.org/docs/drawer-based-navigation",
+        "utilizacao":  "Utilizado para oferecer opções de navegação com abas verticais que são acionadas.",
+        "exemplo": "colocar um endereço de um github",
+        "categoria": "navegacao"
+     }
+     
+]
